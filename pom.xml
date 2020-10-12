@@ -75,9 +75,9 @@
                src/main
              </sonar.java.binaries>	 
            </properties>
-	       <sonar.coverage.exclusion>
+	       <sonar.coverage.exclusions>
 		       **/UserController.java
-		     </sonar.coverage.exclusion>  
+		     </sonar.coverage.exclusions>  
          </profile>
      </profiles>
 		
