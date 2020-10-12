@@ -73,11 +73,13 @@
              </sonar.host.url>
 	<sonar.java.binaries>
                src/main
-             </sonar.java.binaries>	 
-           </properties>
-	       <sonar.coverage.exclusions>
+             </sonar.java.binaries>
+		 <sonar.coverage.exclusions>
 		       **/UserController.java
-		     </sonar.coverage.exclusions>  
+		     </sonar.coverage.exclusions> 
+		 
+           </properties>
+	        
          </profile>
      </profiles>
 		
