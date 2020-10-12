@@ -71,9 +71,9 @@
             <sonar.host.url>
                http://192.168.43.68:9000
              </sonar.host.url>
-	<sonar.sources>
+	<sonar.java.binaries>
                src/main
-             </sonar.sources>	 
+             </sonar.java.binaries>	 
            </properties>
          </profile>
      </profiles>
